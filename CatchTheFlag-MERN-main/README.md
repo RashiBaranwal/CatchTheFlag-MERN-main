@@ -1,29 +1,3 @@
-# Catch The Flag
-
-This project is CTF (catch the flag) game made as dynamic webpage using **M**(mysql)**E**(express)**R**(react)**N**(nodejs) stack. The game has a focus on working with web technologies, social networks, encryption, forensics and malware analysis. Its mission is to raise awareness of these technologies and their dangers The project is inspired by HackTheBox, TryHackMe and other CTF games.
-#
-
-# Preview
-
-## Index Page
-<img src="visuals_for_github/index.png">
-
-#
-
-## Level Template Page
-<img src="visuals_for_github/level.png">
-
-#
-
-## AdminMenu Level Moderation Page
-<img src="visuals_for_github/adminLevel.png">
-
-#
-
-## Responsive design
-<img src="visuals_for_github/responsive.png">
-
-#
 
 # How to start the application ( DEVELOPMENT VERSION )
 * Open 2 terminals
