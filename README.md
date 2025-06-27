@@ -1,5 +1,5 @@
 # How to start the application ( DEVELOPMENT VERSION )
-* Open 2 terminals
+* Open 2 terminals side by side
 
 
 * In first terminal go into **frontend** folder
